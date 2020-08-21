@@ -25,15 +25,15 @@ update @ 2020/08/21
 
 duty : 10 percent
 
-![image](https://github.com/released/M480BSP_EPWM_ECAP/blob/master/scope_duty_10.jpg)
+![image](https://github.com/released/M480BSP_EPWM_Freq_Capture/blob/master/scope_duty_10.jpg)
 
-![image](https://github.com/released/M480BSP_EPWM_ECAP/blob/master/log_duty_10.jpg)
+![image](https://github.com/released/M480BSP_EPWM_Freq_Capture/blob/master/log_duty_10.jpg)
 
 duty : 90 percent
 
-![image](https://github.com/released/M480BSP_EPWM_ECAP/blob/master/scope_duty_90.jpg)
+![image](https://github.com/released/M480BSP_EPWM_Freq_Capture/blob/master/scope_duty_90.jpg)
 
-![image](https://github.com/released/M480BSP_EPWM_ECAP/blob/master/log_duty_90.jpg)
+![image](https://github.com/released/M480BSP_EPWM_Freq_Capture/blob/master/log_duty_90.jpg)
 
 
 
